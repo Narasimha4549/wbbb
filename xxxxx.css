@@ -1,0 +1,170 @@
+
+.grid {
+  display: grid;
+}
+.mt-10 {
+  margin-top: 2.5rem;
+}
+.m-auto {
+  margin: auto;
+}
+.justify-items-center{
+  justify-content: center;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex {
+  display: flex
+;
+}
+.text-theme-red {
+  --tw-text-opacity: 1;
+  color: rgb(237 28 36 / var(--tw-text-opacity));
+}
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+.text-center {
+  text-align: center;
+}
+.text-gray-500 {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+.text-center {
+  text-align: center;
+}
+
+  .md\:pr-8 {
+      padding-right: 2rem;
+  }
+
+.w-\[100\%\] {
+  width: 100%;
+}
+
+  .md\:w-\[80\%\] {
+      width: 80%;
+  }
+
+.text-center {
+  text-align: center;
+}
+.mt-4 {
+  margin-top: 1rem;
+}
+.m-auto {
+  margin: auto;
+}
+.justify-items-center {
+  justify-items: center;
+}
+.w-\[100\%\] {
+  width: 100%;
+}
+.m-auto {
+  margin: auto
+}
+  .md\:grid-cols-3 {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .md\:max-w-full {
+      max-width: 100%;
+
+  
+}
+.gap-6 {
+  gap: 1.5rem;
+}
+.grid {
+  display: grid;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.custimized-training-wrap {
+  margin-top: 5px;
+}
+.gap-6 {
+  gap: 1.5rem;
+}
+.flex {
+  display: flex;
+}
+.custimized-training-wrap div {
+  justify-content: center;
+  align-items: center;
+  display: grid;
+}
+.custimized-img-bg{
+  background: #fff3e8;
+  padding: 20px;
+  width: 100px;
+  box-shadow: 3px 3px 6px #00000029;
+}
+.md\:px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.md\:max-w-full {
+  max-width: 100%;
+}
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.w-\[90\%\] {
+  width: 90%;
+}
+.grid {
+  display: grid
+;
+}
+.mt-10 {
+  margin-top: 2.5rem;
+}
+.m-auto {
+  margin: auto;
+}
+.no-markers{
+  list-style-type:none;
+  padding: 0;
+  margin:0;
+}
+.div1{
+  display: flex;
+}
+
+h3{
+  text-align: center;
+  color: red;
+}
+.para1{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  text-align:center;
+}
+
+img{
+  border: 2px solid none;
+}
+
+span{
+  padding-left: 20px;
+  align-content: center;
+}
+
+section{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.container .row{
+  padding-top: 20px;
+  
+}
